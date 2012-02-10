@@ -1,0 +1,11 @@
+{
+  "name": "redisha",
+  "version": "0.0.1",
+  "author": "Karl Seguin <karl@openmymind.net> (http://openmymind.net/)",
+  "description": "",
+  "engines": { "node": ">=v0.6.6" },
+  "dependencies": {
+    "redis": ">= 0.7.1",
+    "async": ">= 0.1.15"
+  }
+}
